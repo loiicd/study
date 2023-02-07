@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Max Müller",
+    "cours": ["BWL 1", "Python 1"],
+    "age": 20,
+    "hobby": "Fußball",
+    "grade": 0
+  },
+  {
+    "name": "Laura Heimfischer",
+    "cours": ["Python 1"],
+    "age": 23,
+    "hobby": "Lesen",
+    "grade": 0
+  },
+  {
+    "name": "Kalko Laser",
+    "cours": ["Python 1"],
+    "age": 42,
+    "hobby": "Fußball",
+    "grade": 0
+  },
+  {
+    "name": "Herbert Söhren",
+    "cours": ["Senioren 1"],
+    "age": 67,
+    "hobby": "Beschweren",
+    "grade": 0
+  }
+]
